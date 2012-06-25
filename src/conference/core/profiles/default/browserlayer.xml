@@ -1,0 +1,6 @@
+<layers>
+ <layer
+     name="conference.core"
+     interface="conference.core.interfaces.IBrowserLayer"
+     />
+</layers>
